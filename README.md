@@ -4,7 +4,7 @@
 - 🔭 I'm currently focused on Artificial Intelligence (Now especially in the field of AI for Science).
 - 🤔 I'm currently working on Computer Vision and Pattern Recognition, but have interest in all areas of Computer Science.
 - 👯 I’m looking to deeply collaborate on Pattern Recognition, Medical Image Analysis, LLM, and Artificial Intelligence for Remote Sensing.
-- 📫 How to reach me: qiulinwe@buaa.edu.cn, I would be willing to collaborate with you or your team on a variety of related topics.
+- 📫 How to reach me: qiulinwei@buaa.edu.cn, I would be willing to collaborate with you or your team on a variety of related topics.
 
 ## 📊 GitHub Stats:
 
